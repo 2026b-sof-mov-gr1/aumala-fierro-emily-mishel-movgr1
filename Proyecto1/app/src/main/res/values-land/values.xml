@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="saludo"> Hola soy Emily, bienvenido a mi sistema </string>
+    <color name="colorTexto">#000A47</color>
+    <color name="colorFondo">#D9831E</color>
+</resources>
